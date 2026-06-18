@@ -21,7 +21,7 @@ Practice Git repository diagnosis, branch workflow cleanup, merge conflict recov
    ```
 3. Start the app:
    ```bash
-   npm run start-prod
+   npm start
    ```
 
 ## Investigation Commands
