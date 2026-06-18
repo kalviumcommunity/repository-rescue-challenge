@@ -21,7 +21,7 @@ Practice Git repository diagnosis, branch workflow cleanup, merge conflict recov
    ```
 3. Start the app:
    ```bash
-   npm run start-prod
+   npm run start
    ```
 
 ## Investigation Commands
@@ -83,3 +83,4 @@ The application reads the port from `process.env.PORT` and falls back to `3000` 
 
 
 > Temporary test change on temp branch.
+
