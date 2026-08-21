@@ -134,4 +134,3 @@ npm start
 * The README intentionally contains an incorrect startup command to simulate environment drift.
 * Follow safe Git practices throughout the exercise by performing development on feature branches and integrating changes through a Pull Request rather than committing directly to `main`.
 
-> Temporary test change on temp branch.
