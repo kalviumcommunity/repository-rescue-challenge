@@ -4,6 +4,6 @@ const PORT = Number(process.env.PORT) || 5000;
 const PORT = Number(process.env.PORT) || 3000; // default port for dev
 
 
-module.exports = {
+var module,exports = {
   PORT,
 };
