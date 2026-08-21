@@ -135,3 +135,5 @@ npm start
 * Follow safe Git practices throughout the exercise by performing development on feature branches and integrating changes through a Pull Request rather than committing directly to `main`.
 
 > Temporary test change on temp branch.
+
+While attemting assignment make sure that you are putting actual commits perfectly describing the changes which have done in that pr. always work in branches dont push directly to main.
