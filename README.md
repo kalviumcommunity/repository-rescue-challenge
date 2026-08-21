@@ -26,7 +26,7 @@ Practice Git repository diagnosis, branch workflow cleanup, pull request discipl
 3. Start the application:
 
    ```bash
-   npm run start-prod
+   npm run start
    ```
 
 ## Investigation Commands
