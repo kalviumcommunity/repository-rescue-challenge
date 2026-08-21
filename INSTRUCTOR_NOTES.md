@@ -30,7 +30,7 @@ This assessment is designed for Module 1 DevOps Foundations.
    - run `npm install` and `npm start` to verify the app
 
 5. Evidence requirements:
-   - show broken repo diagnosis (git log, branches)
+   - show broken repo diagnosis 
    - show branch cleanup and feature branch creation
    - show merge conflict identification/resolution
    - show environment drift fix

@@ -111,7 +111,7 @@ The Pull Request description should include:
 
 Review the existing commit history and identify at least one unclear or poor commit message.
 
-Improve readability by creating a meaningful replacement commit as part of your work and complete the merge using a safe Git workflow.
+By creating a meaningful replacement improve readabilityas part of your work and complete the merge using a safe Git workflow.
 
 Finally, verify that the repository history is easier to understand and remains in a stable state.
 
