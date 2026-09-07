@@ -5,6 +5,12 @@ const app = express();
 app.get('/', (req, res) => {
   res.send(`DevOps assessment app is running on port ${PORT}`);
 });
+app.put('/', (req, res) => {
+  res.send(`DevOps assessment app is running on port ${PORT}`);
+});
+app.delete('/', (req, res) => {
+  res.send(`DevOps assessment app is running on port ${PORT}`);
+});
 
 app.listen(PORT, () => {
   console.log(`Server started on port ${PORT}`);
