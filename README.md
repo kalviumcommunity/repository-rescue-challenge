@@ -99,39 +99,9 @@ The objective is to demonstrate:
 
 ---
 
-### Task 3: Pull Request, Commit Improvement, and Safe Merge
-
-Create a Pull Request from one of your feature branches into `main`.
-
-The Pull Request description should include:
-
-* What was changed
-* Why the change was needed
-* How the change was verified
-
-Review the existing commit history and identify at least one unclear or poor commit message.
-
-Improve readability by creating a meaningful replacement commit as part of your work and complete the merge using a safe Git workflow.
-
-Finally, verify that the repository history is easier to understand and remains in a stable state.
-
----
-
-### Task 4: Environment Drift Repair
-
-Identify the startup mismatch documented in the README.
-
-Correct the environment configuration and verify the application runs successfully:
-
-```bash
-npm install
-npm start
-```
-
 ## Notes
 
 * The application reads the port from `process.env.PORT` and falls back to `3000` if the variable is not provided.
 * The README intentionally contains an incorrect startup command to simulate environment drift.
 * Follow safe Git practices throughout the exercise by performing development on feature branches and integrating changes through a Pull Request rather than committing directly to `main`.
 
-> Temporary test change on temp branch.
