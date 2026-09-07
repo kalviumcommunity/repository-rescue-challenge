@@ -135,3 +135,5 @@ npm start
 * Follow safe Git practices throughout the exercise by performing development on feature branches and integrating changes through a Pull Request rather than committing directly to `main`.
 
 > Temporary test change on temp branch.
+
+### Making this change as a part of commit on **feature/readme-improvement**. Here in the Readme.md the configuration was correct

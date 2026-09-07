@@ -15,3 +15,7 @@ Use this file as a reference when reviewing the repo history and workflow.
 - small update from test123 branch.
 
 - abandoned note on newbranch.
+
+Doing these changes as a part of commit on **feature/profile-update** branches.
+
+The current repo has a lot of issues specially with poor commit messages this needs to be addressed and to fix this we can make practice of giving detailed commit msgs.
