@@ -26,7 +26,7 @@ Practice Git repository diagnosis, branch workflow cleanup, pull request discipl
 3. Start the application:
 
    ```bash
-   npm run start-prod
+   npm start
    ```
 
 ## Investigation Commands
@@ -93,7 +93,7 @@ git commit -m "fix: update workflow documentation"
 
 The objective is to demonstrate:
 
-* branch isolation
+* branch isolationco
 * organized development workflow
 * avoiding direct development on `main`
 
@@ -132,6 +132,14 @@ npm start
 
 * The application reads the port from `process.env.PORT` and falls back to `3000` if the variable is not provided.
 * The README intentionally contains an incorrect startup command to simulate environment drift.
-* Follow safe Git practices throughout the exercise by performing development on feature branches and integrating changes through a Pull Request rather than committing directly to `main`.
+## Repository Development Guidelines
 
-> Temporary test change on temp branch.
+- Always work on dedicated feature branches (`feature/<name>`).
+- Do not commit directly to the `main` branch.
+- Write clear, meaningful commit messages with conventional prefixes (`docs:`, `feat:`, `fix:`).
+- Verify application configuration and test locally before opening a Pull Request.
+- Merge changes exclusively through reviewed Pull Requests.
+ 
+
+
+ fix added some meanig full commit and fix the unwanted content 
