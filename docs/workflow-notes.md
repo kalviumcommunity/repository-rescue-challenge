@@ -1,6 +1,6 @@
 # Workflow Notes
 
-This repository is intentionally set up with repository history and branch workflow issues:
+This Repository is intentionally set up with repository history and branch workflow issues:
 
 - direct commits on `main`
 - poor commit messages
