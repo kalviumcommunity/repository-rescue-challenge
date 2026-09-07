@@ -26,7 +26,7 @@ Practice Git repository diagnosis, branch workflow cleanup, pull request discipl
 3. Start the application:
 
    ```bash
-   npm run start-prod
+   npm run start
    ```
 
 ## Investigation Commands
@@ -66,7 +66,7 @@ Review the repository using:
 ```bash
 git log --oneline --graph --all
 git branch -a
-git status
+git statuscd
 ```
 
 ---
@@ -115,6 +115,11 @@ Improve readability by creating a meaningful replacement commit as part of your 
 
 Finally, verify that the repository history is easier to understand and remains in a stable state.
 
+Review the existing commit history and identify at least one unclear or poor commit message.
+
+Improve readability by creating a meaningful replacement commit as part of your work and complete the merge using a safe Git workflow.
+
+Finally, verify that the repository history is easier to understand and remains in a stable state.
 ---
 
 ### Task 4: Environment Drift Repair
