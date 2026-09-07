@@ -1,4 +1,5 @@
 # Repository Rescue Challenge
+All the steps are clearly defined in this README.md, before to proceed read this file.
 
 ## Story
 
@@ -135,3 +136,4 @@ npm start
 * Follow safe Git practices throughout the exercise by performing development on feature branches and integrating changes through a Pull Request rather than committing directly to `main`.
 
 > Temporary test change on temp branch.
+
