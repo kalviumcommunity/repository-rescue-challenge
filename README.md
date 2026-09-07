@@ -147,3 +147,16 @@ npm start
 * Follow safe Git practices throughout the exercise by performing development on feature branches and integrating changes through a Pull Request rather than committing directly to `main`.
 
 > Temporary test change on temp branch.
+
+Review the existing commit history and identify at least one unclear or poor commit message.
+
+Improve readability by creating a meaningful replacement commit as part of your work and complete the merge using a safe Git workflow.
+
+Finally, verify that the repository history is easier to understand and remains in a stable state.
+---
+
+### Task 4: Environment Drift Repair
+
+Identify the startup mismatch documented in the README.
+
+Correct the environment configuration and verify the application runs successfully:
