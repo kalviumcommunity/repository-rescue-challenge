@@ -93,7 +93,7 @@ git commit -m "fix: update workflow documentation"
 
 The objective is to demonstrate:
 
-* branch isolation
+* branch isolationco
 * organized development workflow
 * avoiding direct development on `main`
 
@@ -139,3 +139,7 @@ npm start
 - Write clear, meaningful commit messages with conventional prefixes (`docs:`, `feat:`, `fix:`).
 - Verify application configuration and test locally before opening a Pull Request.
 - Merge changes exclusively through reviewed Pull Requests.
+ 
+
+
+ fix added some meanig full commit and fix the unwanted content 
