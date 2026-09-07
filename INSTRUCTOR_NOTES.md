@@ -39,3 +39,8 @@ This assessment is designed for Module 1 DevOps Foundations.
 ## Assessment fit
 
 This repository is intentionally small, requiring only basic Git history inspection, branch management, conflict resolution, and environment verification. No advanced Git commands, CI/CD, Docker, cloud, or database knowledge is required.
+
+## Pull Request Discipline
+
+"A pull request is like a formal request to merge your code changes from one branch into another branch. It’s the standard way teams collaborate on code."
+
