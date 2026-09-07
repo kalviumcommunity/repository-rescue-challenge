@@ -134,4 +134,7 @@ npm start
 * The README intentionally contains an incorrect startup command to simulate environment drift.
 * Follow safe Git practices throughout the exercise by performing development on feature branches and integrating changes through a Pull Request rather than committing directly to `main`.
 
+## Update 07 /09 /2026
+worked on a small issue which couses the app crash. I made changes in src/config.js where a fix Port issue.
+
 > Temporary test change on temp branch.
