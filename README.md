@@ -41,6 +41,7 @@ git status
 
 ## Expected Deliverables
 
+
 Submit one PDF containing five screenshots:
 
 1. Repository diagnosis and initial repository state
@@ -50,6 +51,7 @@ Submit one PDF containing five screenshots:
 5. Final clean repository state
 
 ## Task Guidance
+
 
 ### Task 1: Repository Diagnosis
 
@@ -68,6 +70,7 @@ git log --oneline --graph --all
 git branch -a
 git status
 ```
+
 
 ---
 
@@ -99,6 +102,7 @@ The objective is to demonstrate:
 
 ---
 
+
 ### Task 3: Pull Request, Commit Improvement, and Safe Merge
 
 Create a Pull Request from one of your feature branches into `main`.
@@ -117,6 +121,7 @@ Finally, verify that the repository history is easier to understand and remains 
 
 ---
 
+
 ### Task 4: Environment Drift Repair
 
 Identify the startup mismatch documented in the README.
@@ -134,4 +139,4 @@ npm start
 * The README intentionally contains an incorrect startup command to simulate environment drift.
 * Follow safe Git practices throughout the exercise by performing development on feature branches and integrating changes through a Pull Request rather than committing directly to `main`.
 
-> Temporary test change on temp branch.
+
