@@ -5,9 +5,13 @@ This assessment is designed for Module 1 DevOps Foundations.
 ## Expected student solution path
 
 1. Inspect repository history and branch state:
+
+```bash
    - git log --oneline --all --graph
    - git branch -a
    - git status
+
+```
 
 2. Identify repository problems:
    - multiple direct commits on main with vague messages
