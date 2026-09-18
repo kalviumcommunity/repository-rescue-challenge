@@ -26,8 +26,10 @@ Practice Git repository diagnosis, branch workflow cleanup, pull request discipl
 3. Start the application:
 
    ```bash
-   npm run start-prod
+   npm start
    ```
+
+The application listens on port `3000` by default. Set `PORT` in the environment to use a different port.
 
 ## Investigation Commands
 
