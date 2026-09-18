@@ -128,6 +128,8 @@ npm install
 npm start
 ```
 
+#### Added /profile endpoint in app.js
+
 ## Notes
 
 * The application reads the port from `process.env.PORT` and falls back to `3000` if the variable is not provided.
