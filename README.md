@@ -99,7 +99,7 @@ The objective is to demonstrate:
 
 ---
 
-### Task 3: Pull Request, Commit Improvement, and Safe Merge
+### Task 3: Pull Request, Commit Improvement, and Safe Merges. 
 
 Create a Pull Request from one of your feature branches into `main`.
 
