@@ -1,17 +1,10 @@
 # Workflow Notes
 
-This repository is intentionally set up with repository history and branch workflow issues:
 
-- direct commits on `main`
-- poor commit messages
-- bad branch names
-- a branch with a merge conflict in `src/config.js`
-- an abandoned branch containing partial changes
-
-Use this file as a reference when reviewing the repo history and workflow.
-
-- current workflow is inconsistent and needs cleanup.
-
-- small update from test123 branch.
-
-- abandoned note on newbranch.
+1. Create a feature branch from main.
+2. Make focused changes and use meaningful commit messages.
+3. Push the feature branch to the remote repository.
+4. Open a pull request and review the changes.
+5. Run relevant checks before merging.
+6. Resolve conflicts without force-pushing shared branches.
+7. Synchronize main after a successful merge.
