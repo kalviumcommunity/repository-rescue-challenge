@@ -135,3 +135,6 @@ npm start
 * Follow safe Git practices throughout the exercise by performing development on feature branches and integrating changes through a Pull Request rather than committing directly to `main`.
 
 > Temporary test change on temp branch.
+I have created a new branch called feature/profile-update using git switch -c feature/profile-update to store the changes done to chnage the profile section 
+
+i am modifying the readme.md so that the other users can understand what i changed it will be easy for them to code again
